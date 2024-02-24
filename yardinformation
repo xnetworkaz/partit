@@ -1,0 +1,14 @@
+[
+  {
+    "Key": "10020",
+    "Yard Name": "Carrillo Auto Parts",
+    "Yard Number": "6636",
+    "Status": "Active"
+  },
+  {
+    "Key": "test",
+    "Yard Name": "Test Location",
+    "Yard Number": "000101",
+    "Status": "Active"
+  }
+]
